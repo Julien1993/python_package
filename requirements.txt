@@ -27,3 +27,4 @@ tomli==2.0.1
 traitlets==5.11.2
 tzdata==2023.3
 wcwidth==0.2.8
+wheel==0.41.2
