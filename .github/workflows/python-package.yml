@@ -114,3 +114,4 @@ jobs:
 
     - name: Build documentation
       run: poetry run make html --directory docs/
+
