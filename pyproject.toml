@@ -1,10 +1,9 @@
 [tool.poetry]
-name = "pycounts"
+name = "python-package"
 version = "0.1.0"
-description = "Calculate word counts in a text file."
-authors = ["Tomas Beuzen"]
+description = "Package test."
+authors = ["Jul Oua"]
 license = "MIT"
-readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
